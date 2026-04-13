@@ -1,7 +1,7 @@
 import { useRef } from "react";
 import { motion, useInView } from "framer-motion";
 
-const aboutPhoto = "src/assets/R1.jpeg";
+const aboutPhoto = "public/R1.jpeg";
 
 /** Renders the entire text block with a single fade+slide animation */
 const FadeInBlock = ({
