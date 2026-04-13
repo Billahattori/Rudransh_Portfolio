@@ -1,5 +1,5 @@
 import { useEffect, useState, useRef } from "react";
-import heroBg from "@/assets/hero-bg.jpeg";
+import heroBg from "/assets/hero-bg.jpeg";
 import { Menu, X } from "lucide-react"; // Assuming you have lucide-react for the mobile menu icon
 
 const HeroSection = () => {
