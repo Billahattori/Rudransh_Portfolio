@@ -13,35 +13,35 @@ const educationData: EducationCard[] = [
     name: "Sishya School", 
     detail: "Class X, ICSE | 2016-17", 
     score: "Score: 91.1%", 
-    image: "public/assets/sishya.png", 
+    image: "/assets/sishya.png", 
     category: "Schooling" 
   },
   { 
     name: "Chettinad Vidyashram", 
     detail: "Class XII, CBSE | 2018-19", 
     score: "Score: 94.2%", 
-    image: "public/assets/chettinad.png", 
+    image: "/assets/chettinad.png", 
     category: "High School" 
   },
   { 
     name: "IIT Tirupati", 
     detail: "B.Tech in Mechanical Engineering | 2020-24", 
     score: "Score: 75.4%", 
-    image: "public/assets/iit_tirupati.png", 
+    image: "/assets/iit_tirupati.png", 
     category: "B.Tech" 
   },
   { 
     name: "IIT Madras", 
     detail: "BS in Data Science and Applications | 2024-26", 
     score: "Score: 75%", 
-    image: "public/assets/iit_chennai.png", 
+    image: "/assets/iit_chennai.png", 
     category: "BS Degree" 
   },
   { 
     name: "IIM Kashipur", 
     detail: "Master of Business Administration (MBA) | 2025-27", 
     score: "Pursuing", 
-    image: "public/assets/iim.png", 
+    image: "/assets/iim.png", 
     category: "MBA" 
   },
 ];

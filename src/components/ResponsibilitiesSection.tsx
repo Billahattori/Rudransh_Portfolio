@@ -15,7 +15,7 @@ const roles: RoleCard[] = [
       "Oversaw 40+ student bodies, ensuring adherence to processes, and smooth execution of institute-wide initiatives.",
       "Led 10+ flagship events and supervised large budgets, instituting audit mechanisms for transparent fund utilization."
     ], 
-    image: "public/assets/POR1.png" 
+    image: "/assets/POR1.png" 
   },
   { 
     roleTitle: "Student General Secretary - IIT Tirupati (2023-24)", 
@@ -24,7 +24,7 @@ const roles: RoleCard[] = [
       "Organized 30+ major campus events, hackathons, cultural nights, boosting student engagement by more than 60%.",
       "Doubled institute budget from ₹40L to ₹80L, and restructured the Students’ Constitution to enhance governance."
     ], 
-    image: "public/assets/POR2.jpeg" 
+    image: "/assets/POR2.jpeg" 
   },
   { 
     roleTitle: "Sponsorship & Marketing Team - IIT Tirupati (2021-22)", 
@@ -33,7 +33,7 @@ const roles: RoleCard[] = [
       "Initiated and scaled Campus Ambassador Program, driving ~300 signups, resulting in a 3× rise in the brand reach.",
       "Contributed to a 25% growth in Tirutsava’s social media following through targeted content, influencer tie-ups."
     ], 
-    image: "public/assets/POR3.png" 
+    image: "/assets/POR3.png" 
   },
   { 
     roleTitle: "UG Head of Guidance and Counselling Unit - IIT Tirupati (2022-23)", 
@@ -42,7 +42,7 @@ const roles: RoleCard[] = [
       "Served as liaison between students and GCU, improving session accessibility by 40% via active outreach methods.",
       "Organized peer-support campaigns and forums, driving a noted 30% rise in mental health resource utilization."
     ], 
-    image: "public/assets/POR4.png" 
+    image: "/assets/POR4.png" 
   },
 ];
 
