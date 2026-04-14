@@ -13,7 +13,7 @@ const ConnectSection = () => {
 
     const formData = new FormData(e.currentTarget);
     // Replace with your actual Access Key
-    formData.append("access_key", "81f650af-fd50-4917-8dd7-d096401a3f8b");
+    formData.append("access_key", "4cca5ef1-7daa-4fbf-9194-a77e549ec806");
 
     try {
       const response = await fetch("https://api.web3forms.com/submit", {

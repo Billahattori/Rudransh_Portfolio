@@ -11,37 +11,37 @@ interface EducationCard {
 const educationData: EducationCard[] = [
   { 
     name: "Sishya School", 
-    detail: "Class X, ICSE | 2016-17", 
+    detail: "Class X, ICSE", 
     score: "Score: 91.1%", 
     image: "/assets/sishya.png", 
     category: "Schooling" 
   },
   { 
     name: "Chettinad Vidyashram", 
-    detail: "Class XII, CBSE | 2018-19", 
+    detail: "Class XII, CBSE", 
     score: "Score: 94.2%", 
-    image: "/assets/chettinad.png", 
+    image: "/assets/chettinad.jpeg", 
     category: "High School" 
   },
   { 
     name: "IIT Tirupati", 
-    detail: "B.Tech in Mechanical Engineering | 2020-24", 
+    detail: "B.Tech in Mechanical Engineering", 
     score: "Score: 75.4%", 
-    image: "/assets/iit_tirupati.png", 
+    image: "/assets/iit_tirupati.jpeg", 
     category: "B.Tech" 
   },
   { 
     name: "IIT Madras", 
-    detail: "BS in Data Science and Applications | 2024-26", 
+    detail: "BS in Data Science and Applications", 
     score: "Score: 75%", 
-    image: "/assets/iit_chennai.png", 
+    image: "/assets/iit_chennai.jpeg", 
     category: "BS Degree" 
   },
   { 
     name: "IIM Kashipur", 
     detail: "Master of Business Administration (MBA) | 2025-27", 
-    score: "Pursuing", 
-    image: "/assets/iim.png", 
+    score: "CGPA: 8.11", 
+    image: "/assets/iim.jpeg", 
     category: "MBA" 
   },
 ];

@@ -13,7 +13,7 @@ const roles: RoleCard[] = [
     bullets: [
       "Represented 1,000+ students, liaising with all external stakeholders to resolve infrastructure and policy-issues.",
       "Oversaw 40+ student bodies, ensuring adherence to processes, and smooth execution of institute-wide initiatives.",
-      "Led 10+ flagship events and supervised large budgets, instituting audit mechanisms for transparent fund utilization."
+      "Led flagship events and supervised large budgets, instituting audit mechanisms for transparent fund utilization."
     ], 
     image: "/assets/POR1.png" 
   },

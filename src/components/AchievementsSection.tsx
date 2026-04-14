@@ -11,11 +11,6 @@ const achievements = [
     label: "AIR // JEE MAINS",
     description: "Placed in the top 0.6% nationwide among 1.1 million+ candidates.",
   },
-  {
-    rank: "98.76",
-    label: "PERCENTILE // GATE 2025",
-    description: "Ranked in the top 1.24% out of 6.5 lakh+ candidates, showing elite analytical proficiency.",
-  },
 ];
 
 const AchievementsSection = () => {
