@@ -15,7 +15,7 @@ const roles: RoleCard[] = [
       "Oversaw 40+ student bodies, ensuring adherence to processes, and smooth execution of institute-wide initiatives.",
       "Led flagship events and supervised large budgets, instituting audit mechanisms for transparent fund utilization."
     ], 
-    image: "/assets/POR1.png" 
+    image: "/assets/POR1.jpg" 
   },
   { 
     roleTitle: "Student General Secretary - IIT Tirupati (2023-24)", 
@@ -24,7 +24,7 @@ const roles: RoleCard[] = [
       "Organized 30+ major campus events, hackathons, cultural nights, boosting student engagement by more than 60%.",
       "Doubled institute budget from ₹40L to ₹80L, and restructured the Students’ Constitution to enhance governance."
     ], 
-    image: "/assets/POR2.jpeg" 
+    image: "/assets/POR2.jpg" 
   },
   { 
     roleTitle: "Sponsorship & Marketing Team - IIT Tirupati (2021-22)", 
