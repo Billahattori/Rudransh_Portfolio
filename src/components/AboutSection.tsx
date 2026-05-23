@@ -88,15 +88,21 @@ const AboutSection = () => {
             order-1 (Mobile: Top) -> lg:order-1 (Laptop: Left)
           */}
           <div className="flex flex-col space-y-8 md:space-y-12 order-1 lg:order-1">
-          <h2 className="text-4xl sm:text-5xl md:text-6xl font-bold leading-[1.1] tracking-tight text-foreground max-w-4xl">
+          <h2 className="font-bold leading-[1.1] tracking-tight text-foreground max-w-4xl">
+          <span className="block text-4xl sm:text-5xl md:text-6xl">
             <FadeInBlock text="Hi, I'm Rudransh." delay={0} />
-            <br className="hidden md:block" />
+          </span>
+          <span className="block text-2xl sm:text-3xl md:text-4xl mt-4">
             <FadeInBlock
-              text="I'm not at the intersection of anything. I just do the work."
+              text="I'm not at the intersection of anything."
               delay={0.2}
               tealWord="intersection"
             />
-          </h2>
+          </span>
+          <span className="block text-2xl sm:text-3xl md:text-4xl mt-2">
+            <FadeInBlock text="I just do the work." delay={0.4} />
+          </span>
+        </h2>
 
             <div className="max-w-2xl space-y-6">
               <div className="text-base md:text-lg text-muted-foreground leading-relaxed">
