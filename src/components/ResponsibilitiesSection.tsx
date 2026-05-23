@@ -11,7 +11,7 @@ const roles: RoleCard[] = [
   { 
     roleTitle: "President - IIM Kashipur (2026-27)", 
     bullets: [
-      "Represented 1,000+ students, liaising with all external stakeholders to resolve infrastructure and policy-issues.",
+      "Represented 900+ students, liaising with all external stakeholders to resolve infrastructure and policy-issues.",
       "Oversaw 40+ student bodies, ensuring adherence to processes, and smooth execution of institute-wide initiatives.",
       "Led flagship events and supervised large budgets, instituting audit mechanisms for transparent fund utilization."
     ], 
