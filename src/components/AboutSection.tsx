@@ -92,22 +92,22 @@ const AboutSection = () => {
               <FadeInBlock text="Hi, I'm Rudransh" delay={0} />
               <br className="hidden md:block" />
               <FadeInBlock
-                text="I craft strategies for impactful outcomes"
+                text="I'm not at the intersection of anything,"
                 delay={0.2}
-                tealWord="strategies"
+                tealWord="I just do the work."
               />
             </h2>
 
             <div className="max-w-2xl space-y-6">
               <div className="text-base md:text-lg text-muted-foreground leading-relaxed">
                 <FadeInBlock 
-                  text="I'm a student at IIM Kashipur with a keen interest in technology, design, and innovation. I work at the intersection of business strategy and emerging technologies, exploring data-driven solutions and product thinking to create meaningful impact." 
+                  text="Engineer by training. MBA by choice. Three institutes deep, IIT Tirupati, IIT Madras, IIM Kashipur; and still chasing the same question: how do complicated systems actually work? Right now I answer that with AI pipelines for M&A due diligence. Before that, valuation models, LLM agents, and a lot of late nights." 
                   delay={0.4} 
                 />
               </div>
               <div className="text-base md:text-lg text-muted-foreground leading-relaxed">
                 <FadeInBlock 
-                  text="I like clarity. I like systems. I like when things make sense." 
+                  text="If you're hiring for IB, PE, or strategy, let's talk." 
                   delay={0.6} 
                 />
               </div>
