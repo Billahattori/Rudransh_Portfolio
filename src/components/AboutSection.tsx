@@ -92,7 +92,7 @@ const AboutSection = () => {
               <FadeInBlock text="Hi, I'm Rudransh" delay={0} />
               <br className="hidden md:block" />
               <FadeInBlock
-                text="I'm not at the intersection of anything,"
+                text="I'm not at the intersection of anything"
                 delay={0.2}
                 tealWord="I just do the work."
               />
