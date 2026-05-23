@@ -33,7 +33,7 @@ const roles: RoleCard[] = [
       "Initiated and scaled Campus Ambassador Program, driving ~300 signups, resulting in a 3× rise in the brand reach.",
       "Contributed to a 25% growth in Tirutsava’s social media following through targeted content, influencer tie-ups."
     ], 
-    image: "/assets/POR3.png" 
+    image: "/assets/POR3.jpg" 
   },
   { 
     roleTitle: "UG Head of Guidance and Counselling Unit - IIT Tirupati (2022-23)", 
@@ -42,7 +42,7 @@ const roles: RoleCard[] = [
       "Served as liaison between students and GCU, improving session accessibility by 40% via active outreach methods.",
       "Organized peer-support campaigns and forums, driving a noted 30% rise in mental health resource utilization."
     ], 
-    image: "/assets/POR4.png" 
+    image: "/assets/POR4.jpg" 
   },
 ];
 
