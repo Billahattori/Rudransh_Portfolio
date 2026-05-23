@@ -5,7 +5,7 @@ import ProjectsSection from "@/components/ProjectsSection";
 import ExperienceSection from "@/components/ExperienceSection";
 import EducationSection from "@/components/EducationSection";
 import ResponsibilitiesSection from "@/components/ResponsibilitiesSection";
-import ConnectSection from "@/components/ConnectSection";
+import ContactForm from "@/components/ContactForm";
 import { motion, Variants, AnimatePresence } from "framer-motion"; // Added AnimatePresence
 import { Particles } from "@/components/ui/Particles"; 
 import SkillsSection from "@/components/SkillsSection";
@@ -152,7 +152,7 @@ const PortfolioContent = () => {
           </div>
         </section>
 
-        <div id="connect" className="px-4 md:px-0"><ConnectSection /></div>
+        <div id="connect" className="px-4 md:px-0"><ContactForm /></div>
         <BackToTop /> 
       </div>
     </div>
